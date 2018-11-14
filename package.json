@@ -1,0 +1,8 @@
+{
+  "name": "jisho-cards-services",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "serverless-python-requirements": "^4.2.5"
+  }
+}
